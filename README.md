@@ -1,4 +1,4 @@
-# MURA Lightweight scikit-learn Project
+# mura-wrist-xray-classifier
 
 This project resizes each radiograph to 128×128 grayscale pixels and trains a balanced scikit-learn logistic-regression classifier. The same deterministic preprocessing is used in the notebook and Streamlit app.
 
